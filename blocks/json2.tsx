@@ -95,9 +95,9 @@ export default function (props: FileBlockProps) {
 
 const theme = {
   base00: "white",
-  base01: "#cbd5e1",
-  base02: "#e2e8f0",
-  base03: "#475569",
+  base01: "#FF0000",
+  base02: "#EA00FF",
+  base03: "#1800FF",
   base04: "#d1d5db",
   base05: "#475569",
   base06: "#475569",
