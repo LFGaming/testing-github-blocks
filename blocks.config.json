@@ -16,5 +16,22 @@
     "entry": "blocks/example-folder-block.tsx",
     "matches": ["*"],
     "example_path": "https://github.com/githubocto/flat"
+  },
+  {
+    "type": "file",
+    "id": "json",
+    "title": "JSON explorer own",
+    "description": "An interactive view of JSON data",
+    "entry": "blocks/file-blocks/json2.tsx",
+    "matches": [
+      "*.json",
+      "*.webmanifest",
+      "webmanifest",
+      "prettierrc",
+      "*.prettierrc",
+      "*.yaml",
+      "*.yml"
+    ],
+    "example_path": "https://github.com/d3/d3-geo/blob/main/package.json"
   }
 ]
