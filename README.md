@@ -1,3 +1,5 @@
+# !!! This is just a repository for me to play around with github blocks !!!
+
 # GitHub Blocks Template
 
 Use this repository as a starter template for building your own Blocks.
