@@ -65,7 +65,7 @@ export default function (props: FileBlockProps) {
               overflowWrap: "break-word",
               border: "none",
               backgroundColor: "transparent",
-              color: "#333",
+              color: "#000",
             }}
             onEdit={onChange}
             onAdd={onChange}
@@ -81,7 +81,7 @@ export default function (props: FileBlockProps) {
             alignItems: "center",
             justifyContent: "center",
             textAlign: "center",
-            color: "#999",
+            color: "#567",
             padding: "0 2em",
             fontStyle: "italic",
           }}
@@ -94,7 +94,7 @@ export default function (props: FileBlockProps) {
 }
 
 const theme = {
-  base00: "white",
+  base00: "black",
   base01: "#cbd5e1",
   base02: "#e2e8f0",
   base03: "#475569",
